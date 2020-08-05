@@ -133,6 +133,7 @@ h1 {
 ol, ul {
 	list-style: none;
 	padding-left: 0px; 	/*отступ слева для списков */
+	padding-top: 20px; 	/*отступ слева для списков */
 }
 
 li {
