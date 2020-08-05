@@ -102,7 +102,7 @@ html {
 /*      -webkit-text-size-adjust: none; отключаем регулировку размера шрифта*/
 }
 header {
-	padding: 10px 0px;
+	padding: 20px 0px;
 	font-size: 1.3em;
 	margin: 0px 0px;
 	border-bottom: thin solid #c0c0c0;  /*граница блока - линия снизу*/
