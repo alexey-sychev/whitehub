@@ -25,17 +25,12 @@ footer, header, hgroup, menu, nav, section {
 	display: block;
 }
 
-ol, ul {
+ol {
 /*	list-style: none; */
 /*	padding-left: 0px; 	отступ слева для списков */
-	display: block;
 	margin-left: 20px;
 }
 
-li {
-/*	list-style: none; */
-
-}
 
 
 a {
